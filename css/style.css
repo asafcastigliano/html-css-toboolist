@@ -3,3 +3,29 @@
     margin: 0;
     box-sizing: border-box;
 }
+
+body{
+    background-color: #f6f8f9;
+}
+
+header{
+    background-color: white;
+}
+
+#logo{
+    vertical-align: middle;
+}
+
+main{
+    max-width: 600px;
+    margin: 30px auto;
+}
+
+.div-buttom{
+    background-color: white;
+    margin-bottom: 2px;
+}
+
+.div-todolist{
+    background-color: white;
+}
