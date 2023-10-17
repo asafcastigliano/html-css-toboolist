@@ -24,8 +24,28 @@ main{
 .div-buttom{
     background-color: white;
     margin-bottom: 2px;
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-top: 20px;
+    padding-bottom: 20px;
 }
 
 .div-todolist{
     background-color: white;
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-bottom: 50px;
+}
+
+.div-task{
+    padding-top: 40px;
+}
+
+.check{
+    line-height: 40px;
+}
+
+.imgcheckbox{
+    width: 20px;
+    vertical-align: middle;
 }
